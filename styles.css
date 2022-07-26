@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 830px;
+  background-image: url(/bedmeta-repo/Pictures/metabedBackground.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vmax;
+}
+
+.main-header {
+  position: relative;
+  color: black;
+  text-align: center;
+  border: 3px solid white;
+  border-radius: 25px;
+  width: 35%;
+  left: 33.3%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: lightslategray;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.main-nav {
+  border: 3px solid white;
+  float: left;
+}
+
+.main-page {
+  border: 3px solid white;
+  float: right;
+}
