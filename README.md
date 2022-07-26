@@ -1,3 +1,3 @@
 # bedmeta-repo
 First Collaborative Website
-adslkjgfsfgoddvdj
+Updating Main page with Header and Navigation -LS
