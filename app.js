@@ -1,5 +1,7 @@
 let spanny = document.getElementById('mySpan');
 let pageHeader = document.getElementById('mainHeader');
+let inputLabel = document.getElementById('userInput');
+let gamesButton = document.getElementById('myButton');
 
 pageHeader.addEventListener('mouseover', (event) => {
   spanny.style.color = 'gold';
