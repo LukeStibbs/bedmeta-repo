@@ -30,14 +30,15 @@ Vf = Vo + at
 Speed = |v|  
 
 g = -9.8m/s^2  
-Gravity on Earth  
+-Gravity on Earth  
 
 Projectile motion  
 -----------------   
 Trajectory is the path that the object travels  
  
- Vx = vcos(theta)
- Vy = vsin(theta)
+ Vx = vcos(theta)  
+ Vy = vsin(theta)  
+
 
 
 
