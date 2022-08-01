@@ -91,7 +91,6 @@ body {
   background-color: black;
   left: 25%;
   top: 25%;
-  border-left: 2px solid gold;
-  transform: rotateZ(90deg);
+  border: 2px solid gold;
 }
 
